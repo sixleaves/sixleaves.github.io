@@ -1,4 +1,4 @@
-baseURL: "https://sixleaves.github.io/"
+baseURL: "https://sixleaves.github.io/public"
 title: sixleaves
 paginate: 5
 theme: PaperMod
